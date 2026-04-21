@@ -1,32 +1,57 @@
-[ENTLE KALLYANN MYEZO]
-[60 Lizo Nobhanda Street, Kuyasa, Khayelitsha, 7784] | [060 796 9994] | [230076238@mycput.ac.za] | [https://github.com/entle-myezo]
+# Entle Kallyann Myezo
 
-SKILLS
-Programming: Java, JavaScript | Web: HTML, CSS | Databases: SQL, MySQL | Tools: GitHub, VS Code 
+**Contact**  
+60 Lizo Nobhanda Street, Kuyasa, Khayelitsha, 7784  
+060 796 9994 · [230076238@mycput.ac.za](mailto:230076238@mycput.ac.za) https://github.com/entle-myezo
 
-EDUCATION
-Diploma in ICT: Applications Development (3rd year – final)
-Cape Peninsula University of Technology | 2023–2026
+---
 
+## Skills
 
-PROJECTS
-Interactive Web Application | HTML, CSS, JavaScript]
-• Built responsive webpage with mobile-first design
-• Added JavaScript form validation and dynamic content
+- **Programming:** Java, JavaScript
+- **Web Development:** HTML & CSS
+- **Databases:** SQL & MySQL
+- **Tools:** GitHub, VS Code
 
+---
 
-WORK EXPERIENCE
-Easy Technologies (Internet Cafe Assistant) | [June 2024 - November 2024]
-• Provided first-line IT support (printing, scanning, online applications)
-• Assisted customers with email, forms, and basic troubleshooting
+## Experience
 
-Mr Price Group (Sales Associate) | [February 2025 - November 2025]
-• Operated POS systems and handled cash reconciliation
-• Maintained store organization and customer service
-
-Merchants Academy (Call Centre Learnership) | [January 2026 - February 2026]
+### Call Center Agent Learnership
+**Merchants Academy** · 12/01/2026 – 20/02/2026  
 • Completed JF11 Skills Programme (BPO sector)
 • Developed professional communication and data entry skills
 
-REFERENCE
-Prima Inderall – Lecturer, CPUT | inderalp@cput.ac.za
+### Sales Associate
+**Mr Price Group (Clothing)** · 02/2025 – 11/2025  
+• Operated POS systems and handled cash reconciliation
+• Maintained store organization and customer service
+
+### Assistant
+**Easy Technologies Internet Cafe** · 06/2024 – 11/2024  
+• Provided first-line IT support (printing, scanning, online applications)
+• Assisted customers with email, forms, and basic troubleshooting
+
+---
+
+## Education
+
+| Year | Qualification | Institution |
+|------|---------------|-------------|
+| 2022 | Matric (Grade 12) | Esangweni High School |
+| 2023 – 2026 | Diploma in ICT: Applications Development (3rd year – Final year) | Cape Peninsula University of Technology |
+
+---
+
+## Projects
+
+### Interactive Web Application
+Interactive Web Application | HTML, CSS, JavaScript
+• Built responsive webpage with mobile-first design
+• Added JavaScript form validation and dynamic content
+---
+
+## Reference
+
+**Prima Inderall** – Lecturer at CPUT  
+[Inderalp@cput.ac.za](mailto:Inderalp@cput.ac.za)
