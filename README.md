@@ -1,7 +1,8 @@
 # Entle Kallyann Myezo
 
 **Contact**   
-060 796 9994 · [230076238@mycput.ac.za](mailto:230076238@mycput.ac.za) https://github.com/entle-myezo
+060 796 9994 · Email:[230076238@mycput.ac.za](mailto:230076238@mycput.ac.za)
+Github: https://github.com/entle-myezo
 
 ---
 
