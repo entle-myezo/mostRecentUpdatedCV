@@ -1,7 +1,6 @@
 # Entle Kallyann Myezo
 
-**Contact**  
-60 Lizo Nobhanda Street, Kuyasa, Khayelitsha, 7784  
+**Contact**   
 060 796 9994 · [230076238@mycput.ac.za](mailto:230076238@mycput.ac.za) https://github.com/entle-myezo
 
 ---
